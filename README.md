@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wherera
-- 👀 I’m interested in playing guitar and csgo .
-- 🌱 I’m currently learning C++, C#,and Java.
-- 💞️ I’m looking to collaborate on creating projects.
+- 👀 I’m interested in things interesting  such as programming,music,gaming.
+- 🌱 I’m currently learning Linux and data structure and algorithm.
+- 💞️ I’m looking to collaborate on  creating useful and meaningful projects .
 - 📫 How to reach me by email(2875332791@qq.com).
 
 <!---
